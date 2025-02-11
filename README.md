@@ -4,8 +4,8 @@
 
   1.预训练模型地址
   
-    通过百度网盘分享的文件：pretrain_model.zip
-    
+通过百度网盘分享的文件：pretrain_model.zip
+
 链接：https://pan.baidu.com/s/1rjrgc2ngLpDgUWBbvCUGBQ 
 提取码：vo2y
     
